@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @alya1i
-- 👀 I’m interested in Data Science 
+- 👀 I’m interested in Data Science and Machine Learning 
 - 📫 How to reach me aliaa_4@icloud.com
+
 
 <!---
 alya1i/alya1i is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
