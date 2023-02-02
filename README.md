@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alya1i
-- 👀 I’m interested in Data Science and Machine Learning 
+- 👀 I’m interested in Data Analyst
 - 📫 How to reach me aliaa_4@icloud.com
 
 
